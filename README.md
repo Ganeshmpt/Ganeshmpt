@@ -44,7 +44,6 @@ Me interesa construir aplicaciones web, diseñar bases de datos y entender cómo
 | **db_biblioteca_fisei** | Base de datos de biblioteca con relación ternaria y préstamos maestro-detalle | PostgreSQL |
 | **Laboratorios de redes** | VLANs con router-on-a-stick, DHCP, WLC y firewall OPNsense | Packet Tracer, OPNsense |
 
-> Reemplaza cada nombre por el enlace a su repositorio cuando lo subas, por ejemplo `[OficiosYA](https://github.com/tu-usuario/oficiosya)`.
 
 ---
 
