@@ -41,7 +41,6 @@ Me interesa construir aplicaciones web, diseñar bases de datos y entender cómo
 | **OficiosYA** | Plataforma web tipo marketplace de servicios (proyecto grupal) | Web, trabajo en equipo |
 | **ProyectoCuartoB** | CRUD de estudiantes en escritorio y versión web con arquitectura MVC | Java Swing, JasperReports, PHP, MySQL |
 | **Practica_G5** | Proyecto colaborativo con flujo de ramas en Git | Java, NetBeans, Git |
-| **db_biblioteca_fisei** | Base de datos de biblioteca con relación ternaria y préstamos maestro-detalle | PostgreSQL |
 | **Laboratorios de redes** | VLANs con router-on-a-stick, DHCP, WLC y firewall OPNsense | Packet Tracer, OPNsense |
 
 
