@@ -56,10 +56,11 @@ Me interesa construir aplicaciones web, diseñar bases de datos y entender cómo
 ## 📫 Conéctate conmigo
 
 <a href="https://www.linkedin.com/in/vladimir-moposita-16084a131/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
-<a href="mailto:gmopsita2132@uta.edu.ec"><img src="https://skillicons.dev/icons?i=gmail" alt="Correo"></a>
+<a href="mailto:vladimirmoposita14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Correo personal"></a>
 
 
 
 - 💼 LinkedIn: [linkedin.com/in/vladimir-moposita-16084a131](https://www.linkedin.com/in/vladimir-moposita-16084a131/)
-- 📧 Correo: gmopsita2132@uta.edu.ec
+- 📧 Correo personal: vladimirmoposita14@gmail.com
+- 🎓 Correo institucional: gmopsita2132@uta.edu.ec
 - 📍 Ambato, Ecuador
